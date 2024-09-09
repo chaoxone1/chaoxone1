@@ -1,5 +1,5 @@
 ## Hi there 👋
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/chaoxone1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chaoxone1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adriens's github stats" /></a> | <a href="https://github.com/chaoxone1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaoxone1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **chaoxone1/chaoxone1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
